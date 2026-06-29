@@ -40,12 +40,14 @@ body {
 }
 
 #mode {
+    position: absolute;
+    top: 20px;
+    right: 20px;
     border: none;
-    font-size: 35px;
-    padding: 10px;
     border-radius: 30px;
+    padding: 5px;
+    font-size: 25px;
     cursor: pointer;
-    
 }
 
 .dark {
